@@ -1,0 +1,21 @@
+{
+  "name": "musician",
+  "version": "1.0.0",
+  "description": "implemantation module magician",
+  "main": "musician.js",
+  "dependencies": {
+    "dgram": "^1.0.1",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": { },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kaerdhalis/Teaching-HEIGVD-RES-2019-Labo-Orchestra"
+  },
+  "keywords": [],
+  "author": "benjamin le guillou",
+  "license": "ISC"
+}
